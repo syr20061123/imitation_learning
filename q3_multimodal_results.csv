@@ -1,0 +1,3 @@
+group,action_at_start,success_rate,success_std
+single-mode,-0.9993810728192329,1.0,0.0
+multi-mode,-0.016586816869676113,0.0,0.0

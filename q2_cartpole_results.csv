@@ -1,0 +1,4 @@
+group,mean_reward,std,avg_demo_length,n_transitions
+10 perfect,500.0,0.0,500.0,5000.0
+10 noisy s4.0,465.81666666666666,52.33287154785647,99.2625,992.625
+100 noisy s4.0,500.0,0.0,89.82,8982.0
